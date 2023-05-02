@@ -1,0 +1,16 @@
+.nav-logo:hover {
+	text-decoration: underline;
+}
+
+.nav-right a:hover {
+	text-decoration: underline;
+}
+
+/* BUTTONS */
+
+.btn:hover {
+	background: black;
+	color: antiquewhite;
+	border-color: white;
+	transition: all 0.1s ease-in;
+}
